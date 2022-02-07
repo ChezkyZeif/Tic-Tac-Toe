@@ -1,0 +1,16 @@
+table,td{
+				
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+table{	
+    border-top:hidden;
+    border-left:hidden;
+    border-right:hidden;
+    border-bottom:hidden;
+    margin:auto;
+}
+td{
+    width: 100px;
+    height:80px;
+}
